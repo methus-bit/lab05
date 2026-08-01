@@ -1,4 +1,5 @@
 # lab05
+[PDF](Lab05_6733803002Sec1.pdf)
 
 ## วิธีรัน Project ให้เขียน command นี้ลง cmd
 ```
