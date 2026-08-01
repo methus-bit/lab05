@@ -1,4 +1,4 @@
-# lab05
+# lab05 My First REST API — "Coffee Menu Service"
 [PDF](Lab05_6733803002Sec1.pdf)
 
 ## วิธีรัน Project ให้เขียน command นี้ลง cmd
