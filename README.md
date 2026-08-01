@@ -1,5 +1,9 @@
 # lab05
 
+## วิธีรัน Project ให้เขียน command นี้ลง cmd
+```
+mvn spring-boot:run
+```
 ## ตัวอย่างการเรียกใช้งาน API
 1. ดูรายการเมนูกาแฟทั้งหมด (GET All)
 ```
